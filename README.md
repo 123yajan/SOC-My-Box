@@ -1,1 +1,1 @@
-# SOC-My-Box
+So up till now, I have learnt about basic designing of any app on flutter and also how to go from one screen to other that is by stacking the pages. Also, I have learnt about how to play a song from a link on our app by displaying differnt options like play,pause,stop,etc. Our mentor has divided our works. Me and one of my co-member of this team has to control the media player and to feed the audio the server. So, I am right now just watching tutorials to create a room.
